@@ -1,5 +1,6 @@
 # Minishell - My Custom Shell
-
+<img width="1423" height="895" alt="minishell" src="https://github.com/user-attachments/assets/bf849e4f-24b8-40e8-a675-55e3b1fa897b" />
+<img width="1544" height="894" alt="minishell_1" src="https://github.com/user-attachments/assets/6035d351-67f2-4c90-9cbf-d1c526acb14c" />
 
 *My shell programming project*
 ---
