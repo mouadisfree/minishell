@@ -4,7 +4,7 @@
 
 *My shell programming project*
 ---
-## What is this?
+## What is this?´
 **Minishell** is a custom UNIX shell that works like bash that I wrote myself. It's a school project that helps me learn how operating systems work, how processes communicate, and how shells interpret commands. I'll use this system programming knowledge in other projects later.
 
 ---
